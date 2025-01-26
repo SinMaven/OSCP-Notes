@@ -2,7 +2,7 @@
 
 A collection of notes, techniques, and resources for the OSCP certification.
 
-## Table of Contents
+### Table of Contents
 
 - [Introduction](#introduction)
 - [Information Gathering](#information-gathering)
@@ -21,14 +21,14 @@ A collection of notes, techniques, and resources for the OSCP certification.
 - [Reporting](#reporting)
 - [Exam Preparation](#exam-preparation)
 
-## Introduction
+### Introduction
 
 - [ ] Course Overview
 - [ ] Lab Environment Setup
 - [ ] Kali Linux Basics
 - [ ] Penetration Testing Methodology
 
-## Information Gathering
+### Information Gathering
 
 - [ ] Passive Reconnaissance
 - [ ] Active Reconnaissance
@@ -37,14 +37,14 @@ A collection of notes, techniques, and resources for the OSCP certification.
 - [ ] SMTP Enumeration
 - [ ] SMB Enumeration
 
-## Vulnerability Scanning
+### Vulnerability Scanning
 
 - [ ] Nmap Basics
 - [ ] Nmap Advanced Scanning
 - [ ] Vulnerability Scanning with Nessus
 - [ ] Manual Vulnerability Identification
 
-## Web Application Attacks
+### Web Application Attacks
 
 - [ ] Web Application Reconnaissance
 - [ ] OWASP Top 10 Vulnerabilities
@@ -55,14 +55,14 @@ A collection of notes, techniques, and resources for the OSCP certification.
 - [ ] Authentication Bypass
 - [ ] Web Application Exploitation Tools
 
-## Buffer Overflows
+### Buffer Overflows
 
 - [ ] Stack-Based Buffer Overflow Theory
 - [ ] Exploiting Buffer Overflows on Windows
 - [ ] Exploiting Buffer Overflows on Linux
 - [ ] Writing Custom Exploits
 
-## Windows Exploitation
+### Windows Exploitation
 
 - [ ] Windows Privilege Escalation
 - [ ] Windows Service Exploitation
@@ -70,7 +70,7 @@ A collection of notes, techniques, and resources for the OSCP certification.
 - [ ] Token Impersonation
 - [ ] Windows Kernel Exploits
 
-## Linux Exploitation
+### Linux Exploitation
 
 - [ ] Linux Privilege Escalation
 - [ ] SUID/SGID Exploits
@@ -78,7 +78,7 @@ A collection of notes, techniques, and resources for the OSCP certification.
 - [ ] Kernel Exploits
 - [ ] Linux Post-Exploitation
 
-## Password Attacks
+### Password Attacks
 
 - [ ] Password Cracking Theory
 - [ ] Dictionary Attacks
@@ -86,14 +86,14 @@ A collection of notes, techniques, and resources for the OSCP certification.
 - [ ] Rainbow Table Attacks
 - [ ] Password Spraying
 
-## Client-Side Attacks
+### Client-Side Attacks
 
 - [ ] Social Engineering Techniques
 - [ ] Exploiting Browsers
 - [ ] Exploiting Office Documents
 - [ ] Exploiting Email Clients
 
-## Post-Exploitation
+### Post-Exploitation
 
 - [ ] Maintaining Access
 - [ ] Pivoting and Tunneling
@@ -101,7 +101,7 @@ A collection of notes, techniques, and resources for the OSCP certification.
 - [ ] Clearing Tracks
 - [ ] Post-Exploitation Frameworks
 
-## Exploit Development
+### Exploit Development
 
 - [ ] Introduction to Exploit Development
 - [ ] Fuzzing
@@ -109,7 +109,7 @@ A collection of notes, techniques, and resources for the OSCP certification.
 - [ ] Exploiting SEH Overwrites
 - [ ] Bypassing Protections (ASLR, DEP)
 
-## Active Directory Attacks
+### Active Directory Attacks
 
 - [ ] Enumeration in Active Directory
 - [ ] Kerberos Attacks
@@ -117,14 +117,14 @@ A collection of notes, techniques, and resources for the OSCP certification.
 - [ ] Golden Ticket Attacks
 - [ ] Lateral Movement in AD
 
-## Wireless Attacks
+### Wireless Attacks
 
 - [ ] Wireless Reconnaissance
 - [ ] Cracking WEP/WPA/WPA2
 - [ ] Evil Twin Attacks
 - [ ] Rogue Access Points
 
-## Network Attacks
+### Network Attacks
 
 - [ ] Man-in-the-Middle (MITM) Attacks
 - [ ] ARP Spoofing
@@ -132,14 +132,14 @@ A collection of notes, techniques, and resources for the OSCP certification.
 - [ ] SNMP Exploitation
 - [ ] Exploiting Network Services
 
-## Reporting
+### Reporting
 
 - [ ] Penetration Testing Report Structure
 - [ ] Writing Effective Findings
 - [ ] Risk Rating Vulnerabilities
 - [ ] Delivering Reports to Clients
 
-## Exam Preparation
+### Exam Preparation
 
 - [ ] Exam Overview
 - [ ] Time Management Strategies
