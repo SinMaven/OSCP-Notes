@@ -26,201 +26,201 @@
 ### Introduction
 
 - [ ] **Course Overview**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Lab Environment Setup**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Kali Linux Basics**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Penetration Testing Methodology**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Information Gathering
 
 - [ ] **Passive Reconnaissance**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Active Reconnaissance**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **DNS Enumeration**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **SNMP Enumeration**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **SMTP Enumeration**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **SMB Enumeration**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Vulnerability Scanning
 
 - [ ] **Nmap Basics**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Nmap Advanced Scanning**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Vulnerability Scanning with Nessus**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Manual Vulnerability Identification**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Web Application Attacks
 
 - [ ] **Web Application Reconnaissance**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **OWASP Top 10 Vulnerabilities**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **SQL Injection**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Cross-Site Scripting (XSS)**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **File Inclusion Vulnerabilities**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Command Injection**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Authentication Bypass**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Web Application Exploitation Tools**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Buffer Overflows
 
 - [ ] **Stack-Based Buffer Overflow Theory**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Exploiting Buffer Overflows on Windows**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Exploiting Buffer Overflows on Linux**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Writing Custom Exploits**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Windows Exploitation
 
 - [ ] **Windows Privilege Escalation**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Windows Service Exploitation**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Pass-the-Hash Attacks**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Token Impersonation**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Windows Kernel Exploits**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Linux Exploitation
 
 - [ ] **Linux Privilege Escalation**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **SUID/SGID Exploits**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Exploiting Misconfigured Services**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Kernel Exploits**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Linux Post-Exploitation**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Password Attacks
 
 - [ ] **Password Cracking Theory**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Dictionary Attacks**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Brute-Force Attacks**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Rainbow Table Attacks**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Password Spraying**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Client-Side Attacks
 
 - [ ] **Social Engineering Techniques**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Exploiting Browsers**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Exploiting Office Documents**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Exploiting Email Clients**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Post-Exploitation
 
 - [ ] **Maintaining Access**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Pivoting and Tunneling**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Data Exfiltration**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Clearing Tracks**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Post-Exploitation Frameworks**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Exploit Development
 
 - [ ] **Introduction to Exploit Development**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Fuzzing**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Writing Shellcode**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Exploiting SEH Overwrites**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Bypassing Protections (ASLR, DEP)**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Active Directory Attacks
 
 - [ ] **Enumeration in Active Directory**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Kerberos Attacks**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Pass-the-Ticket Attacks**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Golden Ticket Attacks**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Lateral Movement in AD**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Wireless Attacks
 
 - [ ] **Wireless Reconnaissance**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Cracking WEP/WPA/WPA2**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Evil Twin Attacks**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Rogue Access Points**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Network Attacks
 
 - [ ] **Man-in-the-Middle (MITM) Attacks**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **ARP Spoofing**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **DNS Spoofing**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **SNMP Exploitation**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Exploiting Network Services**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Reporting
 
 - [ ] **Penetration Testing Report Structure**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Writing Effective Findings**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Risk Rating Vulnerabilities**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Delivering Reports to Clients**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 
 ### Exam Preparation
 
 - [ ] **Exam Overview**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Time Management Strategies**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Lab Practice Tips**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
 - [ ] **Mock Exam Scenarios**  
-       [Notes](#wip) · [Videos](#wip)
+       [Notes](#wip) · [Video](#wip)
