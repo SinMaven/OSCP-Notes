@@ -25,7 +25,7 @@
 
 ### Introduction
 
-- [ ] **Course Overview**  
+- [x] **Course Overview**  
        [Notes](#wip) · [Video](#wip)
 - [ ] **Lab Environment Setup**  
        [Notes](#wip) · [Video](#wip)
@@ -224,5 +224,3 @@
        [Notes](#wip) · [Video](#wip)
 - [ ] **Mock Exam Scenarios**  
        [Notes](#wip) · [Video](#wip)
-
-.
