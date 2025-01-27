@@ -5,253 +5,270 @@
 </div>
 
 ### Table of Contents
-- [Introduction](#introduction)  
-- [Information Gathering](#information-gathering)  
-- [Vulnerability Scanning](#vulnerability-scanning)  
-- [Web Application Attacks](#web-application-attacks)  
-- [Buffer Overflows](#buffer-overflows)  
-- [Windows Exploitation](#windows-exploitation)  
-- [Linux Exploitation](#linux-exploitation)  
-- [Password Attacks](#password-attacks)  
-- [Client-Side Attacks](#client-side-attacks)  
-- [Post-Exploitation](#post-exploitation)  
-- [Exploit Development](#exploit-development)  
-- [Active Directory Attacks](#active-directory-attacks)  
-- [Wireless Attacks](#wireless-attacks)  
-- [Network Attacks](#network-attacks)  
-- [Reporting](#reporting)  
+
+- [Introduction](#introduction)
+- [Information Gathering](#information-gathering)
+- [Vulnerability Scanning](#vulnerability-scanning)
+- [Web Application Attacks](#web-application-attacks)
+- [Buffer Overflows](#buffer-overflows)
+- [Windows Exploitation](#windows-exploitation)
+- [Linux Exploitation](#linux-exploitation)
+- [Password Attacks](#password-attacks)
+- [Client-Side Attacks](#client-side-attacks)
+- [Post-Exploitation](#post-exploitation)
+- [Exploit Development](#exploit-development)
+- [Active Directory Attacks](#active-directory-attacks)
+- [Wireless Attacks](#wireless-attacks)
+- [Network Attacks](#network-attacks)
+- [Reporting](#reporting)
 - [Exam Preparation](#exam-preparation)
 
 ### Introduction
+
 > [!NOTE]  
 > Start here if you're new to OSCP. This section covers the basics and lab setup.
 
 - [ ] **Course Overview**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Lab Environment Setup**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Kali Linux Basics**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Penetration Testing Methodology**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Information Gathering
+
 > [!TIP]  
 > Reconnaissance is the foundation of any successful penetration test.
 
 - [ ] **Passive Reconnaissance**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Active Reconnaissance**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **DNS Enumeration**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **SNMP Enumeration**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **SMTP Enumeration**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **SMB Enumeration**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Vulnerability Scanning
+
 > [!WARNING]  
 > Always verify scan results manually to avoid false positives.
 
 - [ ] **Nmap Basics**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Nmap Advanced Scanning**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Vulnerability Scanning with Nessus**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Manual Vulnerability Identification**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Web Application Attacks
+
 > [!TIP]  
 > Focus on OWASP Top 10 vulnerabilities—they’re the most common.
 
 - [ ] **Web Application Reconnaissance**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **OWASP Top 10 Vulnerabilities**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **SQL Injection**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Cross-Site Scripting (XSS)**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **File Inclusion Vulnerabilities**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Command Injection**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Authentication Bypass**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Web Application Exploitation Tools**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Buffer Overflows
+
 > [!WARNING]  
 > Practice buffer overflows extensively—they’re a key part of the OSCP exam.
 
 - [ ] **Stack-Based Buffer Overflow Theory**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Exploiting Buffer Overflows on Windows**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Exploiting Buffer Overflows on Linux**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Writing Custom Exploits**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Windows Exploitation
+
 > [!TIP]  
 > Learn common Windows privilege escalation techniques.
 
 - [ ] **Windows Privilege Escalation**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Windows Service Exploitation**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Pass-the-Hash Attacks**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Token Impersonation**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Windows Kernel Exploits**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Linux Exploitation
+
 > [!TIP]  
 > Focus on SUID/SGID binaries and misconfigured services.
 
 - [ ] **Linux Privilege Escalation**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **SUID/SGID Exploits**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Exploiting Misconfigured Services**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Kernel Exploits**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Linux Post-Exploitation**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Password Attacks
+
 > [!WARNING]  
 > Always ensure you have permission before performing password attacks.
 
 - [ ] **Password Cracking Theory**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Dictionary Attacks**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Brute-Force Attacks**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Rainbow Table Attacks**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Password Spraying**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Client-Side Attacks
+
 > [!TIP]  
 > Social engineering is often the easiest way to gain initial access.
 
 - [ ] **Social Engineering Techniques**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Exploiting Browsers**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Exploiting Office Documents**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Exploiting Email Clients**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Post-Exploitation
+
 > [!TIP]  
 > Maintain access and pivot to other systems for maximum impact.
 
 - [ ] **Maintaining Access**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Pivoting and Tunneling**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Data Exfiltration**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Clearing Tracks**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Post-Exploitation Frameworks**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Exploit Development
+
 > [!WARNING]  
 > Exploit development requires patience and practice.
 
 - [ ] **Introduction to Exploit Development**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Fuzzing**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Writing Shellcode**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Exploiting SEH Overwrites**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Bypassing Protections (ASLR, DEP)**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Active Directory Attacks
+
 > [!TIP]  
 > Active Directory is a goldmine for attackers—learn it well.
 
 - [ ] **Enumeration in Active Directory**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Kerberos Attacks**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Pass-the-Ticket Attacks**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Golden Ticket Attacks**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Lateral Movement in AD**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Wireless Attacks
+
 > [!WARNING]  
 > Always ensure you have permission before attacking wireless networks.
 
 - [ ] **Wireless Reconnaissance**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Cracking WEP/WPA/WPA2**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Evil Twin Attacks**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Rogue Access Points**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Network Attacks
+
 > [!TIP]  
 > Man-in-the-Middle (MITM) attacks are powerful but risky.
 
 - [ ] **Man-in-the-Middle (MITM) Attacks**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **ARP Spoofing**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **DNS Spoofing**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **SNMP Exploitation**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Exploiting Network Services**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Reporting
+
 > [!TIP]  
 > A good report is as important as the penetration test itself.
 
 - [ ] **Penetration Testing Report Structure**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Writing Effective Findings**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Risk Rating Vulnerabilities**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Delivering Reports to Clients**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 
 ### Exam Preparation
+
 > [!WARNING]  
 > Time management is critical during the OSCP exam.
 
 - [ ] **Exam Overview**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Time Management Strategies**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Lab Practice Tips**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
 - [ ] **Mock Exam Scenarios**  
-  [NOTES](#) · [VIDEOS](#)
+       [Notes](#wip) · [Videos](#wip)
