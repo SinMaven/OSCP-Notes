@@ -1,0 +1,74 @@
+name: Progress Tracker
+
+on:
+  push:
+    branches:
+      - main  # Trigger on changes to the main branch
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight (optional)
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install regex
+
+      - name: Calculate and update progress for each section
+        run: |
+          import regex as re
+
+          # Read the Markdown file
+          with open('README.md', 'r') as file:
+              content = file.read()
+
+          # Define sections and their patterns
+          sections = {
+              "Introduction": r'### Introduction \(\d+% Complete\)',
+              "Information Gathering": r'### Information Gathering \(\d+% Complete\)',
+              "Vulnerability Scanning": r'### Vulnerability Scanning \(\d+% Complete\)',
+              # Add more sections as needed
+          }
+
+          # Function to calculate progress for a section
+          def calculate_progress(section_content):
+              total_tasks = len(re.findall(r'- \[[ x]\]', section_content))
+              completed_tasks = len(re.findall(r'- \[x\]', section_content))
+              return round((completed_tasks / total_tasks) * 100) if total_tasks > 0 else 0
+
+          # Update progress for each section
+          updated_content = content
+          for section, pattern in sections.items():
+              # Extract section content
+              section_match = re.search(rf'{pattern}(.*?)(?=###|\Z)', updated_content, re.DOTALL)
+              if section_match:
+                  section_content = section_match.group(1)
+                  progress = calculate_progress(section_content)
+                  # Update the progress in the Markdown file
+                  updated_content = re.sub(
+                      pattern,
+                      f'### {section} ({progress}% Complete)',
+                      updated_content
+                  )
+
+          # Write the updated content back to the file
+          with open('README.md', 'w') as file:
+              file.write(updated_content)
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update progress tracker for all sections"
+          git push
