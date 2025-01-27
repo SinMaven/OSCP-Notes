@@ -31,6 +31,7 @@ jobs:
 
       - name: Calculate and update progress for each section
         run: |
+          python3 <<EOF
           import regex as re
 
           # Read the Markdown file
@@ -69,6 +70,7 @@ jobs:
           # Write the updated content back to the file
           with open('README.md', 'w') as file:
               file.write(updated_content)
+          EOF
 
       - name: Commit changes
         run: |
