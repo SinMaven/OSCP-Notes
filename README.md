@@ -23,9 +23,9 @@
 - [Reporting](#reporting)
 - [Exam Preparation](#exam-preparation)
 
-### Introduction (0% Complete)
+### Introduction
 
-- [x] **Course Overview**  
+- [ ] **Course Overview**  
        [Notes](#wip) · [Video](#wip)
 - [ ] **Lab Environment Setup**  
        [Notes](#wip) · [Video](#wip)
