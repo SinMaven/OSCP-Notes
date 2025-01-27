@@ -3,21 +3,26 @@ name: Progress Tracker
 on:
   push:
     branches:
-      - main  # Trigger on changes to the main branch
-  schedule:
-    - cron: '0 0 * * *'  # Run daily at midnight (optional)
+      - main
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
   update-progress:
     runs-on: ubuntu-latest
     steps:
+      - name: Debug event
+        run: |
+          echo "Event name: ${{ github.event_name }}"
+          echo "Ref: ${{ github.ref }}"
+          echo "SHA: ${{ github.sha }}"
+
       - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: "3.9"
 
       - name: Install dependencies
         run: |
