@@ -23,7 +23,7 @@
 - [Reporting](#reporting)
 - [Exam Preparation](#exam-preparation)
 
-### Introduction
+### Introduction (0% Complete)
 
 - [x] **Course Overview**  
        [Notes](#wip) · [Video](#wip)
