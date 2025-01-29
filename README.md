@@ -1,7 +1,7 @@
 ![banner](https://github.com/user-attachments/assets/c9081c31-23c2-4cd2-bab5-e8d824d87d2b)
 
 <div align="center">
-  <p>A curated collection of notes, techniques, and resources for mastering the OSCP certification.</p>
+  <p>A curated collection of resources for mastering the OSCP certification.</p>
 </div>
 
 ### Table of Contents
@@ -26,201 +26,201 @@
 ### Introduction
 
 - [ ] **Course Overview**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Lab Environment Setup**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Kali Linux Basics**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Penetration Testing Methodology**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 
 ### Information Gathering
 
 - [ ] **Passive Reconnaissance**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Active Reconnaissance**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **DNS Enumeration**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **SNMP Enumeration**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **SMTP Enumeration**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **SMB Enumeration**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 
 ### Vulnerability Scanning
 
 - [ ] **Nmap Basics**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Nmap Advanced Scanning**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Vulnerability Scanning with Nessus**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Manual Vulnerability Identification**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 
 ### Web Application Attacks
 
 - [ ] **Web Application Reconnaissance**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **OWASP Top 10 Vulnerabilities**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **SQL Injection**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Cross-Site Scripting (XSS)**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **File Inclusion Vulnerabilities**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Command Injection**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Authentication Bypass**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Web Application Exploitation Tools**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 
 ### Buffer Overflows
 
 - [ ] **Stack-Based Buffer Overflow Theory**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Exploiting Buffer Overflows on Windows**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Exploiting Buffer Overflows on Linux**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Writing Custom Exploits**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 
 ### Windows Exploitation
 
 - [ ] **Windows Privilege Escalation**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Windows Service Exploitation**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Pass-the-Hash Attacks**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Token Impersonation**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Windows Kernel Exploits**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 
 ### Linux Exploitation
 
 - [ ] **Linux Privilege Escalation**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **SUID/SGID Exploits**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Exploiting Misconfigured Services**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Kernel Exploits**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Linux Post-Exploitation**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 
 ### Password Attacks
 
 - [ ] **Password Cracking Theory**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Dictionary Attacks**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Brute-Force Attacks**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Rainbow Table Attacks**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Password Spraying**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 
 ### Client-Side Attacks
 
 - [ ] **Social Engineering Techniques**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Exploiting Browsers**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Exploiting Office Documents**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Exploiting Email Clients**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 
 ### Post-Exploitation
 
 - [ ] **Maintaining Access**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Pivoting and Tunneling**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Data Exfiltration**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Clearing Tracks**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Post-Exploitation Frameworks**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 
 ### Exploit Development
 
 - [ ] **Introduction to Exploit Development**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Fuzzing**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Writing Shellcode**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Exploiting SEH Overwrites**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Bypassing Protections (ASLR, DEP)**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 
 ### Active Directory Attacks
 
 - [ ] **Enumeration in Active Directory**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](https://tryhackme.com/room/attacktivedirectory)
 - [ ] **Kerberos Attacks**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](https://tryhackme.com/room/attacktivedirectory)
 - [ ] **Pass-the-Ticket Attacks**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](https://tryhackme.com/room/attacktivedirectory)
 - [ ] **Golden Ticket Attacks**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](https://tryhackme.com/room/attacktivedirectory)
 - [ ] **Lateral Movement in AD**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](https://tryhackme.com/room/attacktivedirectory)
 
 ### Wireless Attacks
 
 - [ ] **Wireless Reconnaissance**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Cracking WEP/WPA/WPA2**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Evil Twin Attacks**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Rogue Access Points**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 
 ### Network Attacks
 
 - [ ] **Man-in-the-Middle (MITM) Attacks**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **ARP Spoofing**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **DNS Spoofing**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **SNMP Exploitation**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Exploiting Network Services**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 
 ### Reporting
 
 - [ ] **Penetration Testing Report Structure**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Writing Effective Findings**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Risk Rating Vulnerabilities**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Delivering Reports to Clients**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 
 ### Exam Preparation
 
 - [ ] **Exam Overview**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Time Management Strategies**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Lab Practice Tips**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
 - [ ] **Mock Exam Scenarios**  
-       [Notes](#wip) · [Video](#wip)
+       [Read](#wip) · [Watch](#wip) · [Solve](#wip)
