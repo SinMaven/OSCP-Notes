@@ -4,28 +4,16 @@
 
 <div align="center">
   <p>A structured and comprehensive roadmap to mastering Offensive Security certifications</p>
-  <p>
-    <a href="#about">About</a> •
-    <a href="#features">Features</a> •
-    <a href="#getting-started">Getting Started</a> •
-    <a href="#roadmap">Roadmap</a> •
-    <a href="#resources">Resources</a> •
-    <a href="#contributing">Contributing</a>
-  </p>
 </div>
-
----
 
 ## About
 
-This repository is a meticulously organized learning path for both **OSCP (Offensive Security Certified Professional)** and **CPTS (Certified Penetration Testing Specialist)** certifications. It combines:
+This repository is an organized learning path for both **OSCP (Offensive Security Certified Professional)** and **CPTS (Certified Penetration Testing Specialist)** certifications. It combines:
 
 - **Comprehensive Study Materials**: Detailed notes, cheat sheets, and methodologies.
 - **Practical Exercises**: Hands-on labs from platforms like HTB, TryHackMe, and Proving Grounds.
 - **Toolkit**: Essential tools and references for penetration testing.
 - **Exam Preparation**: Strategies, tips, and practice scenarios for certification success.
-
----
 
 ## Features
 
@@ -55,8 +43,6 @@ This repository is a meticulously organized learning path for both **OSCP (Offen
 - Proven strategies and tips for certification success.
 - Practice scenarios and mock exams.
 
----
-
 ## Getting Started
 
 1. **Clone the repository**
@@ -72,8 +58,6 @@ This repository is a meticulously organized learning path for both **OSCP (Offen
 3. **Start learning**
    - Follow the [Study Roadmap](#roadmap)
    - Track your progress in the [Progress Tracker](notes/README.md)
-
----
 
 ## Roadmap
 
@@ -97,8 +81,6 @@ This repository is a meticulously organized learning path for both **OSCP (Offen
 8. **Social Engineering**
 9. **Reporting**
 
----
-
 ## Resources
 
 ### Study Materials
@@ -110,39 +92,3 @@ This repository is a meticulously organized learning path for both **OSCP (Offen
 - [HTB Machines](labs/htb.md)
 - [TryHackMe Rooms](labs/tryhackme.md)
 - [Proving Grounds](labs/proving_grounds.md)
-
----
-
-## Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-Please read our [Contribution Guidelines](CONTRIBUTING.md) for more details.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For questions or suggestions, please open an issue or contact:
-
-- Email: your.email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-<div align="center">
-  <p>Made with dedication by [Your Name]</p>
-  <p>Good luck on your certification journey!</p>
-</div>
